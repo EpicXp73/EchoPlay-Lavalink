@@ -25,7 +25,7 @@
 
 ---
 
-- 💗 Credits to [UnquizableDev](https://github.com/UnquizableDev) for developing the song recommendation system and fully refactoring the playlist menu UI/UX.
+- 💗 Credits to [Discord](https://discord.gg/qRuc66aWyp) for developing the song recommendation system and fully refactoring the playlist menu UI/UX.
 
 ## ✨ Features
 
@@ -206,7 +206,7 @@ nodes: [
 ## 🌍 Supported Languages
 
 The bot supports **11 languages**:
-
+- 🇧🇩 Bangladesh 
 - 🇺🇸 English (en)
 - 🇪🇸 Spanish (es)
 - 🇫🇷 French (fr)
@@ -299,8 +299,8 @@ PrimeMusic-Lavalink/
 
 ## 🤝 Support
 
-- **Discord Server**: [Join Support Server](https://discord.gg/xQF9f9yUEM)
-- **Issues**: [GitHub Issues](https://github.com/GlaceYT/PrimeMusic-Lavalink/issues)
+- **Discord Server**: [Join Support Server]([https://discord.gg/xQF9f9yUEM](https://discord.gg/qRuc66aWyp))
+- **Issues**: [YOU TUBE ](https://youtube.com/@epicxp73?si=ITaLg7WzEQ6LLDFl)
 - **Author**: GlaceYT
 
 ---
@@ -313,9 +313,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🙏 Credits
 
-- **Created by**: GlaceYT (Shiva)
+- **Created by**: Mubarak (Bhai)
 - **Lavalink**: [lavalink-devs/Lavalink](https://github.com/lavalink-devs/Lavalink)
-- **Discord.js**: [discordjs/discord.js](https://github.com/discordjs/discord.js)
+- **Discord.js**: [discordjs/discord.js](https://discord.gg/qRuc66aWyp)
 - **Riffy**: Lavalink client library
 
 ---
@@ -324,6 +324,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **⭐ Star this repository if you find it helpful!**
 
-Made with ❤️ by GlaceYT
+Made with ❤️ by Mubarak 
 
 </div>
