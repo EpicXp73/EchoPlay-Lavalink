@@ -15,10 +15,7 @@
 
 ### 🔗 Connect With Me
 
-[![YouTube]([https://img.shields.io/badge/YouTube-GlaceYT-red?style=for-the-badge&logo=youtube](https://youtu.be/5OqvJYRQxls?si=j-RjhkCz-wsDXwkr))]([https://youtube.com/@GlaceYT](https://youtube.com/@epicxp73?si=ITaLg7WzEQ6LLDFl))
-[![Website](https://img.shields.io/badge/Website-GlaceYT.com-blue?style=for-the-badge&logo=google-chrome)](https://glaceyt.com)
-[![Replit](https://img.shields.io/badge/Replit-GlaceYT-orange?style=for-the-badge&logo=replit)](https://replit.com/@GlaceYT)
-[![Discord](https://img.shields.io/badge/Discord-Support%20Server-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/xQF9f9yUEM)
+
 
 ---
 
