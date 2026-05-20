@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo](https://i.ibb.co/GfTxbJfC/7-edited.png)
+![Logo](https://chatgpt.com/s/m_6a0d82b749488191a05109a43579578c)
 
 # 🎵 PrimeMusic - Advanced Lavalink Music Bot - 1.5.1
 
